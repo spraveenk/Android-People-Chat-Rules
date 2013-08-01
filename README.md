@@ -20,7 +20,7 @@ Rules and Regulations
 
 - Keep your real name in your StackOverFlow Profile. (Except : user123456 and etc.,)
 
-- Before posting questions, just google it what do you want to do. Read, whathaveyoutried.com  or at least refer the android documentation
+- Before posting questions, just google it what do you want to do. Read, whathaveyoutried.com  or at least refer the http://developer.android.com/
 
 - Don't ping everyone with "@username" for asking your questions. Simply notify it with "@all"
 
