@@ -20,7 +20,7 @@ Rules and Regulations
 
 - Keep your real name in your StackOverFlow Profile. (Except : user123456 and etc.,)
 
-- Before posting questions, just google it what do you want to do. Read, whathaveyoutried.com  or at least refer the http://developer.android.com/
+- Before posting questions, just google it what do you want to do. Read, whathaveyoutried.com  or at least refer the developer.android.com/
 
 - Don't ping everyone with "@username" for asking your questions. Simply notify it with "@all"
 
@@ -28,7 +28,7 @@ Rules and Regulations
 
 - Ask for write access but don't be surprised if it's revoked when you go against their spirit.
 
-- Use pastie or pastebin or gist for posting more than two lines of code.
+- Use pastie.org or pastebin.com or gist.github.com for posting more than two lines of code.
 
 - Please use global language "English" to communicating each other. (If you are using your local language, you'll be lose your access)
 
